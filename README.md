@@ -1,3 +1,3 @@
 # Coach-Mobile-Frontend
 
-The root of the Players SPA is at SPAP.js
+The root of the Coaches SPA is at SPAC.js
